@@ -1,0 +1,24 @@
+.new {
+  background-color: #e4e4e4
+}
+.w60 {
+  width: 60%
+}
+.left {
+  position: fixed;
+  left: auto;
+  right: auto
+}
+.bold {
+  font-weight: 700
+}
+.extra-bold {
+  font-weight: 900
+}
+.text-m {
+  font-size: 13px
+}
+.h {
+  height: 600px
+}
+
